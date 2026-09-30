@@ -1,0 +1,175 @@
+{
+  "fonte": "https://www.acesaojoao.com.br/certificados",
+  "data_coleta": "2026-09-30",
+  "empresa_revendedora": {
+    "nome": "Associação Comercial e Empresarial (ACE) de São João da Boa Vista",
+    "site": "https://www.acesaojoao.com.br",
+    "endereco": "Rua São João, 237 – Centro, São João da Boa Vista – SP",
+    "contatos": {
+      "telefone_geral": "(19) 3634-4302",
+      "whatsapp": "(19) 3634-4302",
+      "certificacao_digital": "(19) 3634-4315 / (19) 3634-4304",
+      "comercial": "(19) 3634-4302 / (19) 3634-4313 / (19) 3634-4315",
+      "gerencia": "(19) 3634-4308",
+      "comunicacao": "(19) 3634-4305 / (19) 3634-4318",
+      "financeiro": "(19) 3634-4312 / (19) 3634-4306",
+      "jucesp": "(19) 3634-4314 / (19) 3634-4311",
+      "empreender": "(19) 3634-4305 / (19) 3634-4303"
+    },
+    "horario_atendimento": "Segunda a sexta, das 8h30 às 18h (exceto feriados)",
+    "redes_sociais": {
+      "facebook": "https://facebook.com/acesaojoao",
+      "instagram": "https://instagram.com/acesaojoao",
+      "linkedin": "https://linkedin.com/company/acesaojoao",
+      "twitter_x": "https://twitter.com/acesaojoao",
+      "youtube": "https://youtube.com/user/Associacaosaojoao"
+    },
+    "parcerias": [
+      "Certisign (emissão de certificados digitais e-CPF e e-CNPJ)",
+      "Equifax | Boa Vista (serviços de análise de crédito)"
+    ]
+  },
+  "autoridade_certificadora": {
+    "nome": "Certisign",
+    "site": "https://www.certisign.com.br",
+    "descricao": "Empresa brasileira de tecnologia especializada em segurança digital, provedora de jornadas e transações digitais seguras e confiáveis. Está no mercado há 30 anos.",
+    "servicos": [
+      "Certificados digitais e-CPF (pessoa física)",
+      "Certificados digitais e-CNPJ (pessoa jurídica)",
+      "Certificados em nuvem",
+      "Certificados especializados para profissionais (advogados, dentistas, médicos, contadores) - inclui parceria com a OAB",
+      "Certificados SSL/TLS para sites",
+      "Plataforma de assinatura digital (Certisign Assinaturas/iziSign)",
+      "Identificação biométrica",
+      "Soluções corporativas para os setores financeiro, saúde e educação"
+    ],
+    "posicao_de_mercado": "Atende grandes instituições brasileiras como Itaú, Bradesco, Mercado Livre, OAB, Vale, entre outras.",
+    "contatos": {
+      "telefone": "(011) 4003-5597 / 0800-838-0500",
+      "whatsapp_comercial": "(011) 9 4206-8651",
+      "whatsapp_suporte": "(011) 9 9568-4423",
+      "horario_atendimento": "8h às 19h, dias úteis (exceto feriados)"
+    }
+  },
+  "categorias": [
+    {
+      "categoria": "Pessoa Física (e-CPF)",
+      "produtos": [
+        {
+          "nome": "e-CPF A1 - computador",
+          "descricao": "Emitido no computador e fica armazenado no navegador",
+          "preco": "R$ 128,96",
+          "imagem": "imagens/ECPFA1104M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECPFA1104M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA1PFR104-F&grupo=ESPED&cod_rev=69933"
+        },
+        {
+          "nome": "e-CPF A3 - com smartcard",
+          "descricao": "Armazenado em cartão criptografado Smartcard Certisign",
+          "preco": "R$ 233,67",
+          "imagem": "imagens/ECPFA3301M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECPFA3301M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA3PFR301-F&grupo=FPBRC&cod_rev=69933"
+        },
+        {
+          "nome": "e-CPF A3 - com token",
+          "descricao": "Armazenado em uma mídia criptográfica (token)",
+          "preco": "R$ 350,54",
+          "imagem": "imagens/ECPFA3303M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECPFA3303M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA3PFR303-F&grupo=FPBRC&cod_rev=69933"
+        },
+        {
+          "nome": "e-CPF A3 - só certificado",
+          "descricao": "Não acompanha mídia física (token ou cartão)",
+          "preco": "R$ 214,97",
+          "imagem": "imagens/ECPFA3300M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECPFA3300M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA3PFR300-F&grupo=FPBRC&cod_rev=69933"
+        }
+      ]
+    },
+    {
+      "categoria": "Pessoa Jurídica (e-CNPJ)",
+      "produtos": [
+        {
+          "nome": "e-CNPJ A1 PME",
+          "descricao": "Emitido no computador e fica armazenado no navegador (12 meses)",
+          "preco": "R$ 160,53",
+          "imagem": "imagens/ECNPJA1104M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECNPJA1104M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA1PJRPE104-F&grupo=ESPED&cod_rev=69933"
+        },
+        {
+          "nome": "e-CNPJ A3 PME",
+          "descricao": "Armazenado em uma mídia do cliente (cartão ou token) (36 meses)",
+          "preco": "R$ 224,91",
+          "imagem": "imagens/PEA3300M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/PEA3300M.png",
+          "url_compra": "https://wa.me/5519996558995?text=Olá!%20Eu%20gostaria%20de%20adquirir%20o%20Certificado%20Digital%20e-CNPJ%20A3PME%2036%20meses."
+        },
+        {
+          "nome": "e-CNPJ A1 - No Computador",
+          "descricao": "Emitido no computador e fica armazenado no navegador (12 meses)",
+          "preco": "R$ 189,68",
+          "imagem": "imagens/ECNPJA1104M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECNPJA1104M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA1PJR104-F&grupo=ESPED&cod_rev=69933"
+        },
+        {
+          "nome": "e-CNPJ A3 - Somente Certificado",
+          "descricao": "Armazenado em uma mídia do cliente (cartão ou token) (36 meses)",
+          "preco": "R$ 299,12",
+          "imagem": "imagens/ECNPJA3300Multipla.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECNPJA3300Multipla.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA3PJR300-F&grupo=FPBRC&cod_rev=69933"
+        },
+        {
+          "nome": "e-CNPJ A3 - Cartão SmartCard (12 meses)",
+          "descricao": "Armazenado em cartão criptografado Smartcard Certisign",
+          "preco": "R$ 263,90",
+          "imagem": "imagens/ECNPJA3301M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECNPJA3301M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA3PJR101-F&grupo=BVSCE&cod_rev=69933"
+        },
+        {
+          "nome": "e-CNPJ A3 - Cartão SmartCard (36 meses)",
+          "descricao": "Armazenado em cartão criptografado Smartcard Certisign",
+          "preco": "R$ 322,49",
+          "imagem": "imagens/ECNPJA3301M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECNPJA3301M.png",
+          "url_compra": "https://pagamento.certisign.com.br/default/checkout/cart/"
+        },
+        {
+          "nome": "e-CNPJ A3 - Com Token incluso",
+          "descricao": "Armazenado em uma mídia criptográfica, no caso, token",
+          "preco": "R$ 395,90",
+          "imagem": "imagens/ECNPJA3303M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/ECNPJA3303M.png",
+          "url_compra": "https://pagamento.certisign.com.br/productRedirect?produto=EX-CERA3PJR103-F&grupo=BVSCE&cod_rev=69933"
+        }
+      ]
+    },
+    {
+      "categoria": "AC OAB (e-CPF)",
+      "produtos": [
+        {
+          "nome": "e-CPF A3 só certificado - 3 anos (OAB)",
+          "descricao": "Exclusivo para os profissionais regularmente inscritos na Ordem dos Advogados do Brasil (OAB)",
+          "preco": "R$ 85,00",
+          "imagem": "imagens/OABA3303M.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/OABA3303M.png",
+          "url_compra": "https://gestaoar.certisign.com.br/GestaoAR/cliente/produto/inicio?produto=OABA3PFISPSCHV5&grupo=GAOAB&cliente_AR=OABSP&origem=1&cod_rev=69933"
+        },
+        {
+          "nome": "e-CPF A3 com token - 3 anos (OAB)",
+          "descricao": "Exclusivo para os profissionais regularmente inscritos na Ordem dos Advogados do Brasil (OAB)",
+          "preco": "R$ 108,50",
+          "imagem": "imagens/OABA3300M-1.png",
+          "imagem_original": "https://acesaojoao.com.br/web/wp-content/uploads/2025/01/OABA3300M-1.png",
+          "url_compra": "https://gestaoar.certisign.com.br/GestaoAR/cliente/produto/inicio?produto=OABA3PFISPTOHV5&grupo=GAOAB&cliente_AR=OABSP&origem=1&cod_rev=69933"
+        }
+      ]
+    }
+  ]
+}
