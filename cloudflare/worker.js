@@ -45,7 +45,7 @@ REGRAS:
 `;
 
 // Endereço do seu site: só até o ".io", sem barra no final
-const SITE_PERMITIDO = "https://acesaojoao.github.io/";
+const SITE_PERMITIDO = "https://acesaojoao.github.io";
 
 // Modelo de IA (lista em developers.cloudflare.com/workers-ai/models)
 const MODELO = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
